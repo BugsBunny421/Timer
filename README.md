@@ -124,14 +124,10 @@ In this example, the timer's owner is set to a GameObject using the `SetOwner()`
 
 ## Contributing
 
-Contributions to BugsBunny Timer are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull
-
- request.
+Contributions to this Timer are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
 ## License
 
-BugsBunny Timer is released under the MIT License. See the [LICENSE](https://github.com/BugsBunny421/Timer/blob/main/LICENSE) file for more details.
+This Timer is released under the MIT License. See the [LICENSE](https://github.com/BugsBunny421/Timer/blob/main/LICENSE) file for more details.
 
 ---
-
-That's the combined README file with all the usage examples. Feel free to modify it further based on your project's specific requirements and add any additional information or sections as needed.
