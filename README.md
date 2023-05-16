@@ -28,7 +28,7 @@ Timer timer = new Timer(5f, () =>
 TimersManager.Add(timer);
 ```
 
-### Example 2: Updating Timer
+### Example 2: Adding a method on each update of Timer
 
 ```csharp
 // Create a timer that fires after 10 seconds and displays the remaining time in each update
